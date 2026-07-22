@@ -1,1 +1,1 @@
-user login required. Only Admin can access the hidden film. 
+user login required. Only Admin can access the hidden file. 
